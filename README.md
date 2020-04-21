@@ -18,12 +18,24 @@ ProMaGen Project
 
 ## Versions
 
+# One
 Just for one Project, 
 executable file is inside the project, 
 without config file
 + [one](http://one.promagen.com/)
 
+
+# Multi
 For many projects
 executable file is global for whole system
 config file is depends project or user
 + [multi](http://multi.promagen.com/)
+
+
+# Cloud
+for creating space to execute some example scipts
+based on faas.ovh/ faasapp.com
+Cloud convert this html file with bash scripts in files few *.sh 
+which will be executed by One Promagen version on faasapp.com Cloud
+
+https://docs.gitlab.com/runner/install/linux-manually.html
