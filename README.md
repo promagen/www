@@ -6,6 +6,7 @@ ProMaGen Project
 
 
 ## Menu
+
 + [Blog](http://blog.promagen.com/)
 
 + [Logo](http://logo.promagen.com/)
@@ -13,3 +14,16 @@ ProMaGen Project
 + [Documentation](http://docs.promagen.com/)
 
 + [Example Application](http://app.promagen.com/)
+
+
+## Versions
+
+Just for one Project, 
+executable file is inside the project, 
+without config file
++ [one](http://one.promagen.com/)
+
+For many projects
+executable file is global for whole system
+config file is depends project or user
++ [multi](http://multi.promagen.com/)
