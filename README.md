@@ -23,13 +23,18 @@ Just for one Project,
 executable file is inside the project, 
 without config file
 + [one](http://one.promagen.com/)
-
+binary file for: linux, iOS or windows system
 
 # Multi
 For many projects
 executable file is global for whole system
 config file is depends project or user
 + [multi](http://multi.promagen.com/)
+
+
+# Server
+based on NodeJS
+executed as nodeJS application 
 
 
 # Cloud
