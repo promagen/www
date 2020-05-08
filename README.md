@@ -18,32 +18,25 @@ ProMaGen Project
 
 ## Versions
 
-# One
-Just for one Project,
+## on  Desktop with electron
+
+### one
+If you want use the window
 executable file is inside the project,
 without config file
 + [one](https://one.promagen.com/)
 binary file for: linux, iOS or windows system
 
-# Multi
+### Multi
 For many projects
 executable file is global for whole system
 config file is depends project or user
 + [multi](https://multi.promagen.com/)
 
 
-# Server
+## Server on port 3001
 based on NodeJS
 executed as nodeJS application
-
-
-# Cloud
-for creating space to execute some example scipts
-based on faas.ovh/ faasapp.com
-Cloud convert this html file with bash scripts in files few *.sh
-which will be executed by One Promagen version on faasapp.com Cloud
-
-https://docs.gitlab.com/runner/install/linux-manually.html
 
 
 ## How to start on windows?
