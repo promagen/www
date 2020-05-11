@@ -1,13 +1,14 @@
-+ [polish version - PL](https://www.promagen.com/README_PL.html)
-
++ [Wersja angielska - EN](https://www.promagen.com/)
++ 
 # ProMaGen Project
+
 
 ![11/cover.png](https://logo.promagen.com/11/cover.png)
 
 
 ## Menu
 
-+ [Web Page - www.promagen.com](https://www.promagen.com/)
++ [Strona domowa projektu www.promagen.com](https://www.promagen.com/)
 
 + [Blog](https://blog.promagen.com/)
 
