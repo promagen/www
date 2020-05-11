@@ -95,7 +95,8 @@ download using git command
 
 
 
-# The project is supported by [API Foundation](https://apifoundation.com)
+## Projekt ProMaGen jest wspierany przez [API Foundation](https://apifoundation.com)
+
 We started in 2018 with few concepts but one idea: fastest development.
 Now, in 2020 we are giving solutions:
 
