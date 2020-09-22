@@ -1,10 +1,17 @@
 + [Wersja angielska - EN](https://www.promagen.com/)
-+ 
+ 
 # ProMaGen Project
 
 
 ![11/cover.png](https://logo.promagen.com/11/cover.png)
 
+## Czym jest ProMagen ?
+
+ProMagen to web-GUI dla konsoli terminala systemu operacyjnego,
+pozwala na uruchamianie skryptów .sh/.bat poprzez kliknięcie button'a w przeglądarce
+przydaje się w codziennej pracy DEVOPS, jako narzędzie szybkiego dostępu z podglądem informacji z konsoli oraz 'zrzutu ekranu' aplikacji w przeglądarce
+Możliwość pracy na kilku projektach.
+Napisany w języku Javascript + Nodejs.
 
 ## Menu
 
